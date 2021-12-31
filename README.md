@@ -1,2 +1,15 @@
-# Lakshya_Enterprise
-Main page of Lakshya Enterprise 
+# Lakshya Enterprise
+The main page of Lakshya Enterprise
+
+## ✨ Features
+
+- just a site
+- thats it!
+
+## 💁‍♀️ How to use
+
+- clone this repo
+- edit the stuff u want to change
+- open the index.html file to see the website
+- upload the finished file in a webserver and start it
+- thats it
