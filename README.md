@@ -14,6 +14,6 @@ The main page of Lakshya Enterprise
 - upload the finished file in a webserver and start it
 - thats it
 
-## Note
+## ✨ Note
 
 - This site has used and modified a template from `BootstrapMade` all credits goes to them other than changing the css and stuff.
