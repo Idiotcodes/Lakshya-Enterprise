@@ -1,5 +1,5 @@
 # Lakshya Enterprise
-The main page of Lakshya Enterprise
+The official repo of Lakshya Enterprise
 
 ## ✨ Features
 
