@@ -1063,6 +1063,7 @@ section {
   border-radius: 5px;
   position: relative;
   overflow: hidden;
+  margin: 10;
 }
 
 .pricing h3 {
