@@ -1147,6 +1147,7 @@ section {
 
 .pricing .featured {
   border: 2px solid #008000;
+  margin: 10;
 }
 
 .pricing .featured h3 {
