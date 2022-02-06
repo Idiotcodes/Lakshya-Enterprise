@@ -1072,7 +1072,7 @@ section {
   padding: 30px 15px;
   font-size: 18px;
   font-weight: 600;
-  color: #777777;
+  color: #2a2c39;
 }
 
 .pricing h4 {
@@ -1137,6 +1137,7 @@ section {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   transition: 0.3s;
+  box-shadow: 10px 5px 15px #008000;
 }
 
 .pricing .btn-buy:hover {
